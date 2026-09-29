@@ -1,3 +1,5 @@
+> **Not part of Ghost.** This is a copy of Google's Agent Development Kit for Go, kept for reference. It is not installed on a Ghost box.
+
 # Agent Development Kit (ADK) for Go
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
