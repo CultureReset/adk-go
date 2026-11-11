@@ -1,3 +1,14 @@
+> **CultureReset fork of [google/adk-go](https://github.com/google/adk-go).** An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+>
+> - **Why it is here:** Saved as a reference while building NODE's agents, memory and tools.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** Apache-2.0, from upstream. For updates and issues, use [upstream](https://github.com/google/adk-go).
+>
+> The upstream README follows unchanged.
+
+---
+
 # Agent Development Kit (ADK) for Go
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
